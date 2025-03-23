@@ -6,7 +6,7 @@
 
 ## 🌟 Project Overview
 
-Dive into the world of sentiment analysis using cutting-edge deep learning techniques! This project leverages the power of Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) networks to classify movie reviews from the IMDB dataset.
+This project leverages the power of Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) networks to classify movie reviews from the IMDB dataset.
 
 ## ✨ Key Features
 
