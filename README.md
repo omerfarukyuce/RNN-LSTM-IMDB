@@ -1,4 +1,4 @@
-# 🎬RNN&LSTM-IMDB🎭
+# 🎬RNN & LSTM-IMDB🎭
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://www.python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org)
@@ -61,4 +61,4 @@ This project is licensed under the [MIT](LICENSE) License.
 ## 🔍 Code And Kaggle Link
 Project: [rnn-lstm-imdb.ipynb](https://github.com/omerfarukyuce/RNN-LSTM-IMDB/blob/main/rnn-lstm-imdb.ipynb)
 
-Kaggle: [🎬RNN&LSTM-IMDB🎭](https://www.kaggle.com/code/merfarukyce/rnn-lstm-imdb)
+Kaggle: [🎬RNN & LSTM-IMDB🎭](https://www.kaggle.com/code/merfarukyce/rnn-lstm-imdb)
