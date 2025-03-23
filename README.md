@@ -25,17 +25,17 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
 
 ## 🧠 Model Architectures
 ### 🔹 RNN Model
- Embedding layer
- Two SimpleRNN layers
- BatchNormalization
- Dropout
- Dense layers with regularization
+ - Embedding layer
+ - Two SimpleRNN layers
+ - BatchNormalization
+ - Dropout
+ - Dense layers with regularization
 ### 🔹 LSTM Model
- Embedding layer
- Two LSTM layers
- BatchNormalization
- Multiple Dropout layers
- Dense layers
+ -Embedding layer
+ -Two LSTM layers
+ -BatchNormalization
+ -Multiple Dropout layers
+ -Dense layers
  
 ## 📊 Performance Metrics
 | Model | Accuracy | Precision | Recall | F1-Score |
