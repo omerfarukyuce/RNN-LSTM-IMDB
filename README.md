@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://www.python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## 🌟 Project Overview
 
@@ -52,3 +53,6 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
 📉 ROC Curve
 
 📉 Training/Validation Loss and Accuracy
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
