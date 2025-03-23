@@ -43,8 +43,8 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
 | RNN | 81.60% | 0.82 | 0.82 | 0.82 | 
 | LSTM | 81.50% | 0.78 | 0.87 | 0.81 |
 
-📈 Visualizations Included
-🌈 Sentiment Distribution
-🎯 Confusion Matrix
+## 📈 Visualizations Included
+📊 Sentiment Distribution
+📊 Confusion Matrix
 📉 ROC Curve
-📊 Training/Validation Loss and Accuracy
+📉 Training/Validation Loss and Accuracy
