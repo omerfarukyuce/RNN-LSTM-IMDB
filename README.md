@@ -36,8 +36,12 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
  BatchNormalization
  Multiple Dropout layers
  Dense layers
- Performance Metrics
-| Model | Accuracy | Precision | Recall | F1-Score | |-------|----------|-----------|--------|----------| | RNN | 81.60% | 0.82 | 0.82 | 0.82 | | LSTM | 81.50% | 0.78 | 0.87 | 0.81 |
+ 
+## 📊 Performance Metrics
+| Model | Accuracy | Precision | Recall | F1-Score |
+|-------|----------|-----------|--------|----------|
+| RNN | 81.60% | 0.82 | 0.82 | 0.82 | 
+| LSTM | 81.50% | 0.78 | 0.87 | 0.81 |
 
 📈 Visualizations Included
 🌈 Sentiment Distribution
