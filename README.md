@@ -31,11 +31,11 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
  - Dropout
  - Dense layers with regularization
 ### 🔹 LSTM Model
- -Embedding layer
- -Two LSTM layers
- -BatchNormalization
- -Multiple Dropout layers
- -Dense layers
+ - Embedding layer
+ - Two LSTM layers
+ - BatchNormalization
+ - Multiple Dropout layers
+ - Dense layers
  
 ## 📊 Performance Metrics
 | Model | Accuracy | Precision | Recall | F1-Score |
@@ -44,7 +44,11 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
 | LSTM | 81.50% | 0.78 | 0.87 | 0.81 |
 
 ## 📈 Visualizations Included
+
 📊 Sentiment Distribution
+
 📊 Confusion Matrix
+
 📉 ROC Curve
+
 📉 Training/Validation Loss and Accuracy
