@@ -54,5 +54,11 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
 
 📉 Training/Validation Loss and Accuracy
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
+## 📜 License
+
+This project is licensed under the [MIT](LICENSE) License.
+
+## 🔍 Code And Kaggle Link
+Project: [rnn-lstm-imdb.ipynb](https://github.com/omerfarukyuce/RNN-LSTM-IMDB/blob/main/rnn-lstm-imdb.ipynb)
+
+Kaggle: [🎬RNN&LSTM-IMDB🎭)](https://www.kaggle.com/code/merfarukyce/rnn-lstm-imdb)
