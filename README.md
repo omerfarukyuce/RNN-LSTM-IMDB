@@ -21,3 +21,26 @@ Dive into the world of sentiment analysis using cutting-edge deep learning techn
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=flat-square&logo=scikit-learn)
+
+
+## 🧠 Model Architectures
+###🔹 RNN Model
+📡 Embedding layer
+🌊 Two SimpleRNN layers
+📊 BatchNormalization
+🎲 Dropout
+🧩 Dense layers with regularization
+### 🔹 LSTM Model
+📡 Embedding layer
+🌊 Two LSTM layers
+📊 BatchNormalization
+🎲 Multiple Dropout layers
+🧩 Dense layers
+📊 Performance Metrics
+| Model | Accuracy | Precision | Recall | F1-Score | |-------|----------|-----------|--------|----------| | RNN | 81.60% | 0.82 | 0.82 | 0.82 | | LSTM | 81.50% | 0.78 | 0.87 | 0.81 |
+
+📈 Visualizations Included
+🌈 Sentiment Distribution
+🎯 Confusion Matrix
+📉 ROC Curve
+📊 Training/Validation Loss and Accuracy
